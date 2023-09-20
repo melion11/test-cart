@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.price {
+    margin-bottom: 15px;
+}
+
+.buttonWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}

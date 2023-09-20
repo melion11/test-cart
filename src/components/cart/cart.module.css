@@ -1,0 +1,34 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.cartItemsWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+
+}
+
+.cartItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #a1ff4b;
+    padding: 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #e12a2a;
+    padding: 20px;
+}
